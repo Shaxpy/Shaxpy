@@ -1,8 +1,8 @@
-### Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
+## Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
 
 I am Shashwat, 3rd year EEE undergrad, working in Deep learning and hardware, believes in Python based Robotics.
 
-Trying to extend my domain towards crafting mapping algorithms and increasing Autonomy in Robots! :car:
+Trying to extend my domain towards crafting mapping algorithms and increasing Autonomy in Robots!
 
 <details>
   <summary><i> <b> Click Here </b> to explore my world ! </i>
