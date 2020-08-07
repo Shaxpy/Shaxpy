@@ -1,6 +1,6 @@
 ### Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
 
-I am Shashwat, 3rd year EEE undergrad, working in Deep learning and hardware,believes in Python based Robotics.
+I am Shashwat, 3rd year EEE undergrad, working in Deep learning and hardware, believes in Python based Robotics.
 
 Trying to extend my domain towards crafting mapping algorithms and increasing Autonomy in Robots! :car:
 
