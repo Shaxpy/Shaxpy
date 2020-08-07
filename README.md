@@ -15,10 +15,10 @@
 - :robot: Hit me up collaborate on projects based on ROS (Robotics OS)
 - ⚡ Fun fact: I am learning German!
 
-![What Github says about me](https://github-readme-stats.vercel.app/api?username=shaxpy&show_icons=true&hide_border=true)
+![What Github stats](https://github-readme-stats.vercel.app/api?username=shaxpy&show_icons=true&hide_border=true)
 
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="300" />
+<p align="right">
+  <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="200" />
 </p>
 
 ### Contact me at: <br>
