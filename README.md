@@ -11,7 +11,7 @@
 </p> </summary>    
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="200" />
+  <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="300" />
 </p>
 
 - 🔭 Researching on Robotics and Self Driving Systems
