@@ -29,7 +29,7 @@
   <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <p align="center">
-<img align="middle" src="https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif" width="250" height="250" />
+<img align="middle" src="https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif" width="50" height="250" />
 </p>
 
 </details>
