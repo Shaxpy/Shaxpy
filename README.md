@@ -9,13 +9,14 @@
 <p align="center">  
   <img align="middle" src="https://media.giphy.com/media/wTrXRamYhQzsY/giphy.gif" width="190" height="190" />
 </p> </summary>    
-  
-![What Github says about me](https://github-readme-stats.vercel.app/api?username=shaxpy&show_icons=true&hide_border=true)
+ 
   
 - 🔭 Researching on Robotics and Self Driving Systems
 - :electric_plug: Engaged in improving Assistive Technology for the needy
 - :robot: Hit me up collaborate on projects based on ROS (Robotics OS)
 - ⚡ Fun fact: I am learning German!
+
+![What Github says about me](https://github-readme-stats.vercel.app/api?username=shaxpy&show_icons=true&hide_border=true)
 
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="300" />
