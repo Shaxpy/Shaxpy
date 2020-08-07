@@ -1,8 +1,8 @@
 ## Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
 
-I am Shashwat, 3rd year EEE undergrad, working in Deep learning and hardware, believes in Python based Robotics.
-
-Trying to extend my domain towards crafting mapping algorithms and increasing Autonomy in Robots!
+- I am Shashwat, 3rd year EEE undergrad
+- Working in Deep learning and hardware, believes in Python based Robotics
+- Trying to extend my domain towards crafting mapping algorithms and increasing Autonomy in Robots! 
 
 <details>
   <summary><i> <b> Click Here </b> to explore my world ! </i>
@@ -21,7 +21,7 @@ Trying to extend my domain towards crafting mapping algorithms and increasing Au
 
 ![What Github says about me](https://github-readme-stats.vercel.app/api?username=shaxpy&show_icons=true&hide_border=true)
 
-Contact me at: 
+#### Contact me at: <br>
 <a href="https://www.linkedin.com/in/shaxpy28">
   <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
