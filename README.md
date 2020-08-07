@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I am learning German!
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/xUA7aS269qm5PX7fa0/giphy.gif" width="200" />
+  <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="200" />
 </p>
 
 ![What Github says about me](https://github-readme-stats.vercel.app/api?username=shaxpy&show_icons=true&hide_border=true)
