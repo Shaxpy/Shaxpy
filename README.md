@@ -1,8 +1,8 @@
 ## Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
 
-- :panda_face: I am Shashwat, 3rd year EEE undergrad
-- :octocat: Working in Deep learning and hardware, believes in Python based Robotics
-- :car: Trying to extend my domain towards crafting mapping algorithms and increasing Autonomy in Robots :robot:! 
+- :panda_face:I am Shashwat, 3rd year EEE undergrad
+- :octocat:Working in Deep learning and hardware, believes in Python based Robotics
+- :car:Trying to extend my domain towards crafting mapping algorithms and increasing Autonomy in Robots :robot:! 
 
 <details>
   <summary><i> <b> Click Here </b> to explore my world ! </i>
