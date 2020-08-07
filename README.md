@@ -28,7 +28,7 @@
 <a href="mailto:shashwatpandey28@gmail.com">
   <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<p align="center">
+<p align="center"><br>
 <img align="middle" src="https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif" width="250" height="250" />
 </p>
 
