@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I am learning German!
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/xUA7aS269qm5PX7fa0/giphy.gif" width="300" height="300" />
+  <img align="right" src="https://media.giphy.com/media/xUA7aS269qm5PX7fa0/giphy.gif" width="50" height="300" />
 </p>
 
 ![What Github says about me](https://github-readme-stats.vercel.app/api?username=shaxpy&show_icons=true&hide_border=true)
@@ -29,7 +29,7 @@
   <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <p align="center">
-<img align="middle" src="https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif" width="50" height="250" />
+<img align="middle" src="https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif" width="250" height="250" />
 </p>
 
 </details>
