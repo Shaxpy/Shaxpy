@@ -7,7 +7,7 @@
 <details>
   <summary><i> <b> Click Here </b> to explore my world ! </i>
 <p align="center">  
-  <img align="middle" src="https://media.giphy.com/media/wTrXRamYhQzsY/giphy.gif" width="120" height="120" />
+  <img align="middle" src="https://media.giphy.com/media/wTrXRamYhQzsY/giphy.gif" width="220" height="190" />
 </p> </summary>    
   
 - 🔭 Researching on Robotics and Self Driving Systems
