@@ -14,7 +14,7 @@
   <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="300" />
 </p>
 
-- Computer Vision inter at UVRobots
+- :zap: Computer Vision intern at UVRobots
 - 🔭 Researching on Robotics and Self Driving Systems
 - :electric_plug: Engaged in improving Assistive Technology for the needy
 - :robot: Hit me up collaborate on projects based on ROS (Robotics OS)
