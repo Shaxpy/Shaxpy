@@ -2,7 +2,7 @@
 
 - :panda_face: I am Shashwat, Final year EEE undergrad
 - :octocat:Working in Deep learning and Perception in robotics
-- :car:Trying to extend my domain towards crafting mapping algorithms and increasing autonomy in Robots :robot:! 
+- :car:Trying to extend my domain towards crafting mapping algorithms and increasing autonomy in Robots! 
 
 <details>
   <summary><i> <b> Click Here </b> to explore my world ! </i>
