@@ -1,7 +1,7 @@
 ## Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
 
 - :panda_face: I am Shashwat, Final year EEE undergrad
-- :octocat:Working in Deep learning and Perception in roboticss
+- :octocat:Working in Deep learning and Perception in robotics
 - :car:Trying to extend my domain towards crafting mapping algorithms and increasing autonomy in Robots :robot:! 
 
 <details>
