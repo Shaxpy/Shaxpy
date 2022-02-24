@@ -1,8 +1,8 @@
 ## Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
 
-- :panda_face: I am Shashwat, 3rd year EEE undergrad
-- :octocat:Working in Deep learning and hardware, believes in Python based Robotics
-- :car:Trying to extend my domain towards crafting mapping algorithms and increasing Autonomy in Robots :robot:! 
+- :panda_face: I am Shashwat, Final year EEE undergrad
+- :octocat:Working in Deep learning and Perception in roboticss
+- :car:Trying to extend my domain towards crafting mapping algorithms and increasing autonomy in Robots :robot:! 
 
 <details>
   <summary><i> <b> Click Here </b> to explore my world ! </i>
@@ -14,7 +14,7 @@
   <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="300" />
 </p>
 
-- :zap: Computer Vision intern at UVRobots
+- :zap: Former Computer Vision at UVRobots
 - 🔭 Researching on Robotics and Self Driving Systems
 - :electric_plug: Engaged in improving Assistive Technology for the needy
 - :robot: Hit me up collaborate on projects based on ROS (Robotics OS)
