@@ -11,7 +11,7 @@
 </p> </summary>    
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="300" />
+  <img align="right" src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="300" />
 </p>
 
 - :zap: Former SDE at IBM, now working in Kritikal Solutions
