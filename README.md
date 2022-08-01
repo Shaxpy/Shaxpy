@@ -1,8 +1,8 @@
 ## Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
 
 - :panda_face: I am Shashwat, a Robotics perception engineer
-- :octocat:Working professional on different vision pipelines and ADAS based automotive systems
-- :car:Trying to achieve greater heights in my understanding of the world of 3D vision! 
+- :octocat:Working professional on vision pipelines and ADAS 
+- :car:Trying to dive deep into the world of 3D vision! 
 
 <details>
   <summary><i> <b> Click Here </b> to explore my world ! </i>
@@ -15,7 +15,7 @@
 </p>
 
 - :zap: Former SDE at IBM, now working in Kritikal Solutions
-- 🔭 Researching on Robotics and Self Driving Systems
+- 🔭 Researching on vision strategies of Automotive Systems
 - :electric_plug: Engaged in building robots using ROS1/2
 - :robot: Hit me up collaborate on similar projects
 - ⚡ Fun fact: I am learning German!
