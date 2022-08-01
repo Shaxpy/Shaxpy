@@ -14,7 +14,7 @@
   <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="300" />
 </p>
 
-- :zap: Former Computer Vision at UVRobots
+- :zap: Former SDE at IBM, now working in Kritikal Solutions
 - 🔭 Researching on Robotics and Self Driving Systems
 - :electric_plug: Engaged in building robots using ROS1/2
 - :robot: Hit me up collaborate on similar projects
