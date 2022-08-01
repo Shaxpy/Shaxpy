@@ -5,6 +5,7 @@
 - :car: Trying to dive deep into the world of 3D vision!   
 - :electric_plug: Engaged in building robots using ROS1/2
 - :robot: Hit me up to collaborate on similar projects
+<br>
 <p align="center"><img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="250" height="150" /></p>
 
 ### Connect with me: <br>
