@@ -1,8 +1,8 @@
 ## Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
 
-- :panda_face: My name is Shashwat Pandey, Final year EEE undergrad
-- :octocat:Working on Deep learning and Perception in robotics
-- :car:Trying to extend my domain towards crafting mapping algorithms and increasing autonomy in Robots! 
+- :panda_face: I am Shashwat, a Robotics perception engineer
+- :octocat:Working professional on different vision pipelines and ADAS based automotive systems
+- :car:Trying to achieve greater heights in my understanding of the world of 3D vision! 
 
 <details>
   <summary><i> <b> Click Here </b> to explore my world ! </i>
@@ -16,8 +16,8 @@
 
 - :zap: Former Computer Vision at UVRobots
 - 🔭 Researching on Robotics and Self Driving Systems
-- :electric_plug: Engaged in improving Assistive Technology for the needy
-- :robot: Hit me up collaborate on projects based on ROS (Robotics OS)
+- :electric_plug: Engaged in building robots using ROS1/2
+- :robot: Hit me up collaborate on similar projects
 - ⚡ Fun fact: I am learning German!
 
 ![What Github stats](https://github-readme-stats.vercel.app/api?username=shaxpy&show_icons=true&hide_border=true)
