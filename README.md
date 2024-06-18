@@ -1,6 +1,6 @@
 ## Hey there! 👋 <p align="center"><img align="right" src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" width="250" height="200" /></p>
 
-- :panda_face: I am Shashwat, a Robotics perception engineer 
+- :panda_face: I am Shashwat, a Robotics perception engineer, currently pursuing Master's in Autonomous Systems in Germany
 - :octocat: Working professional on vision pipelines, ADAS strategies for automotive systems
 - :car: Trying to dive deep into the world of 3D vision!   
 - :electric_plug: Engaged in building robots using ROS1/2
