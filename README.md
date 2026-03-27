@@ -19,11 +19,6 @@
 <br>
 <br>
 
-## Stats: 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=shaxpy&show_icons=true&hide_border=true&theme=radical" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaxpy&layout=compact&theme=radical&hide_border=true" />
-
-
 <p align="center"><br>
 <img align="middle" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="400" height="200" /></p>
 
